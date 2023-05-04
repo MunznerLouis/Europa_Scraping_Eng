@@ -24,7 +24,7 @@ Python 3.10.5 - Scrapy Project
 data extraction:
 
 - Scrapy 2.7.1   
-Other libraries such as logging and datetime should be integrated in the standard library of your Python version.
+Other libraries such as **logging** and **datetime** should be integrated in the standard library of your Python version.
 
 dashboards:
 
@@ -88,7 +88,7 @@ As for our .csv files, they are:
     - 15 columns
     - number of rows: 1,106,821
     - scraping time: ~13 hours (18 requests/s)
-#### Dashbaord
+#### Dashboard
 With the collected data, we were able to create an interactive map that displays information related to the company when hovering the mouse over it and a few other graphs : 
 <img src="dashboard/Plot_Screenshots/Holding_map.png" alt="Holding map" width="65%">
 <img src="dashboard/Plot_Screenshots/mouse_Hover.png" alt="Mouse hover" width="45%">
